@@ -1,0 +1,134 @@
+body{
+  background-color: #fad0e8;
+}
+
+header{
+  position: relative;
+  height: 194px;
+  margin-bottom: 10px;
+//  background-color: #ccc;
+}
+
+img{
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
+
+p{
+  font-size: 150%;
+  font-family: 標楷體;
+  margin: 0;
+}
+
+.logo{
+  margin-top: 70px;
+  margin-left: 8%;
+  width: 209px;
+  height: 100px;
+  background-color: #f0a1d2;
+  border-radius: 10px;
+  float: left;
+}
+
+.logo p {
+  font-family: Algerian;
+  font-size: 60px;
+  padding: 35px 30px;
+  line-height: 0.5;
+  text-align: left;
+  color: #0e0909;
+}
+
+nav{
+  margin-right: 8%;
+  float: right;
+}
+
+nav .bottom{
+  width: 150px;
+  height: 64px;
+  margin-top: 105px;
+  margin-right: 10px;
+  background-color: #f0a1d2;
+  float: left;
+}
+
+nav a{
+  text-transform: none;
+}
+
+nav p{
+  font-size: 30px;
+  padding: 15px 13px;
+  color: #0e0909;
+}
+
+.main-img{
+  margin-bottom: 3.7%
+}
+
+article{
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.contain{
+  height: 17%;
+}
+
+.contain img{
+  margin:0 0 4.6% 8%;
+  float: left;
+}
+
+.textbox{
+  width: 50%;
+  height: 14%;
+  margin-left: 5.4%;
+  padding-top: 1.6%;
+  float: left;
+}
+
+
+footer{
+  height: 190px;
+  background-color: #f0a1d2;
+}
+
+.icon a {
+  float: left;
+}
+
+.icon img{
+  height: auto;
+  max-width: 100%;
+  margin-left: 15px;
+}
+
+.icon{
+  margin-top: 110px;
+  margin-right: 8%;
+  float: right;
+}
+
+.footer-textbox{
+  width: 300px;
+  height: 130px;
+  padding-top: 30px;
+  margin-left: 8%;
+  float: left;
+}
+
+.footer-textbox p{
+  font-size: 16px;
+  color: #0e1211;
+  font-family: Adobe 繁黑體 Std, Noto Sans CJK TC, Adobe Fan Heiti Std B ;
+  text-align: left;
+}
+
+
+
+.clear{
+  clear: both;
+}
